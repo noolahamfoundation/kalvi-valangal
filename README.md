@@ -8,7 +8,7 @@ Run the following commands;
 
 Make the changes you want
 
-### `npm run uild`
+### `npm run build`
 
 #### In the build folder add the JavaScript file inside static folder JS in the index.html. Within <Body> tag
 
